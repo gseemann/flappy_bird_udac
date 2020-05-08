@@ -109,6 +109,7 @@ INITIAL_EPSILON = 0.1
 [3] Kevin Chen. **Deep Reinforcement Learning for Flappy Bird** [Report](http://cs229.stanford.edu/proj2015/362_report.pdf) | [Youtube result](https://youtu.be/9WKBzTUsPKc)
 
 ## Disclaimer
+This is not my own code
 This work is highly based on the following repos:
 
 1. [sourabhv/FlapPyBird] (https://github.com/sourabhv/FlapPyBird)
